@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Meridian AudioScape Project.unity
+- path: Assets/MeridianUI.unity
   isLoaded: 1
   isActive: 1

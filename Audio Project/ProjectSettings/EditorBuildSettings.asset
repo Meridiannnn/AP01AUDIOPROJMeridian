@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: a54d5b0b2b8ce418692c6dc0a4ae7da2
+  - enabled: 1
     path: Assets/Meridian AudioScape Project.unity
     guid: 3d65d226ff7b54c8193d1dfc6dcc8fa5
   m_configObjects: {}
